@@ -1,14 +1,10 @@
-<h1 align="center">Prince Kumar</h1>
-
-###
-
 <br clear="both">
 
 <img align="right" height="110" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<h3 align="left">Sophomore At Chitkara University | Leader in Coding Ninjas | Front-End Developer | Python | C/C++| Co-Head in IE(I) Student Chapter | #100DaysofCodeatChitkara |</h3>
+<h3 align="center">Hi  My Name is Prince Kumar !!<br>Sophomore At Chitkara University | Leader in Coding Ninjas | Front-End Developer | Python | C/C++| Co-Head in IE(I) Student Chapter | #100DaysofCodeatChitkara |</h3>
 
 ###
 
@@ -22,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
