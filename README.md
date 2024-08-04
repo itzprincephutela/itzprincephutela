@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi  My Name is Prince Kumar !!<br>Sophomore At Chitkara University | Leader in Coding Ninjas | Front-End Developer | Python | C/C++| Co-Head in IE(I) Student Chapter | #100DaysofCodeatChitkara |</h3>
+<h3 align="center">Hi  My Name is Prince Kumar !!<br> Student At Chitkara University | Leader in Coding Ninjas | Front-End Developer | Python | C/C++| Co-Head in IE(I) Student Chapter | #100DaysofCodeatChitkara |</h3>
 
 ###
 
